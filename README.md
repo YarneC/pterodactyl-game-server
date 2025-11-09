@@ -1,1 +1,1 @@
-# pterodactyl-valheim-server
+# pterodactyl-game-server
